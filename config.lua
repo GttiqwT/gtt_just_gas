@@ -10,8 +10,8 @@ Config.StationRange = 6.0				-- If a value is not set, it will use this instead.
 -- Fuel drain per second (speed/2 * rate + 0.01) default: 0.005 (lower lasts longer)
 Config.FuelDrainRate = 0.005
 
--- Refuel rate at gas stations (percent per second) default: 2.5
-Config.RefuelRate = 2.5
+-- Refuel rate at gas stations (percent per second) default: 4.0
+Config.RefuelRate = 4.0
 
 -- DO NOT CHANGE --
 Config.CanRefuelRate = 1.0
@@ -37,8 +37,8 @@ Config.EnableFuelCans = true
 -- Fuel HUD settings
 Config.HUD = {
     X = 0.015,   -- X screen coordinate (0.0 left, 1.0 right) default: 0.015
-    Y = 0.97,    -- Y screen coordinate (0.0 top, 1.0 bottom) default: 0.97
-    Width = 0.12, -- default: 0.12
+    Y = 0.79,    -- Y screen coordinate (0.0 top, 1.0 bottom) default: 0.79
+    Width = 0.14, -- default: 0.14
     Height = 0.02, -- default: 0.02
 	FuelColor = {R = 90, G = 100, B = 255, A = 200}, -- both the gas and refueling are synced and use the same values! vvv
     BorderColor = {R = 0, G = 0, B = 0, A = 150},
