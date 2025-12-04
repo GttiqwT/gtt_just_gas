@@ -7,7 +7,7 @@ If you do not condone the usage of chatgpt or AI tools then just don't use the s
 I have tested it in a local FiveM server and it seems to work pretty good so far. A little bit of testing with other players worked good, too. I have not tested the performance/optimization so if there are any memory leaks
 or issues I am not responsible. I will however, take constructive criticism and/or feedback to make changes to improve the script.
 
-**Features:**
+### **Features:**  
 -Standalone Script  
 -Simple installation  
 -Very customizable, has config file where you can change a lot of stuff to your liking!  
